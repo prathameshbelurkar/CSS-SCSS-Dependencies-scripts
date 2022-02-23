@@ -25,3 +25,6 @@
  }
    
 ```
+
+## Run in CLI
+> npm i

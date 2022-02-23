@@ -31,4 +31,5 @@
 ## Step:2
 ### Run in CLI
 > npm init
+
 > npm install / npm i

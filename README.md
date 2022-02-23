@@ -30,4 +30,5 @@
 ```
 ## Step:2
 ### Run in CLI
-> npm i
+> npm init
+> npm install / npm i

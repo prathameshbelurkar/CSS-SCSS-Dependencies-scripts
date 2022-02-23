@@ -1,6 +1,6 @@
 # CSS-SCSS-Dependencies-scripts
 
-##1
+## 1 
 ### Add to package.json 👇
 
 ```
@@ -28,6 +28,6 @@
  }
    
 ```
-##2
+## 2
 ### Run in CLI
 > npm i

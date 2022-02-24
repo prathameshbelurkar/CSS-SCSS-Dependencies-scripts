@@ -1,6 +1,9 @@
 # CSS-SCSS-Dependencies-scripts
 
 ## Step:1 
+
+> npm init
+
 ### Add to package.json 👇
 
 ```
@@ -30,6 +33,8 @@
 ```
 ## Step:2
 ### Run in CLI
-> npm init
 
-> npm install / npm i
+> > npm install / npm i
+
+<hr>
+

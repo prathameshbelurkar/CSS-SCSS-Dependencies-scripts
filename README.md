@@ -34,7 +34,9 @@
 ## Step:2
 ### Run in CLI
 
-> > npm install / npm i
+> npm install / npm i
 
 <hr>
+
+
 

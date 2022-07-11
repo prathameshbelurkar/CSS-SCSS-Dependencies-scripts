@@ -7,7 +7,7 @@
 ### Add to package.json 👇
 
 ```
-{
+
 "scripts": {
     "compile1:sass": "node-sass sass/main.scss css/style.css",
     "watch:sass": "nodemon -e scss -x \"npm run compile:sass\"",
